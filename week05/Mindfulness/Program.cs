@@ -40,3 +40,8 @@ class Program
     }
 }
 
+// Extra Features:
+// 1. Spinner animation on all pauses
+// 2. Countdown timer before listing
+// 3. Tracks number of listed items
+// 4. Well-structured inheritance and encapsulation
